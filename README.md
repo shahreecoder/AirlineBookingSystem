@@ -1,4 +1,4 @@
-# Airline Booking system Backend
+# Airline Booking System Backend
 
 This is a Airline Booking Node.js project designed with important code principles and project management recommendations in mind. Feel free to modify it as needed.
 
