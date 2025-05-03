@@ -75,13 +75,3 @@ To start the server, execute:
 npm run dev
 ```
 
-- go Inside the `src` folder create run the following command:
-
-    ```
-    npx sequelize init
-
-    ````
-
-- By executing above command you will get migrations and seeders folder also get `config.json` inside src/config folder. 
-- if you are setting up your development enviroment, then write username of db, password of db  and in dailect mention which db you are using, like mysql, maria db etc. 
-- if you are setting up prod enviroment, make sure you also replace the hosted db. 
